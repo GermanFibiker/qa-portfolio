@@ -1,2 +1,10 @@
-# qa-portfolio
-Manual Testing Portfolio
+# QA Portfolio
+
+Практические работы по ручному тестированию.
+
+## Здесь будут
+
+- Bug Reports
+- Test Cases
+- Чек-листы
+- Практика тестирования веб-приложений
